@@ -1,0 +1,6 @@
+﻿  Main.cpp
+c:\users\neil\documents\college\visual studio\c++ projects\theory of computation\programming assignment 1\programming assignment 1\main.cpp(142): warning C4018: '<': signed/unsigned mismatch
+c:\users\neil\documents\college\visual studio\c++ projects\theory of computation\programming assignment 1\programming assignment 1\main.cpp(252): warning C4018: '<': signed/unsigned mismatch
+c:\users\neil\documents\college\visual studio\c++ projects\theory of computation\programming assignment 1\programming assignment 1\main.cpp(349): warning C4018: '<': signed/unsigned mismatch
+  Programming Assignment 1.vcxproj -> C:\Users\Neil\Documents\College\Visual Studio\C++ Projects\Theory of Computation\Programming Assignment 1\Debug\Programming Assignment 1.exe
+  Programming Assignment 1.vcxproj -> C:\Users\Neil\Documents\College\Visual Studio\C++ Projects\Theory of Computation\Programming Assignment 1\Debug\Programming Assignment 1.pdb (Full PDB)
